@@ -13,7 +13,7 @@ Return the foo.
 julia> using sampleproject
 
 julia> foo()
-bar
+"bar"
 ```
 """
 foo() = "bar"

@@ -1,7 +1,7 @@
 name = "sampleproject"
 uuid = "cf2b0dfb-3e20-42cb-9e57-be5da4139b84"
 authors = ["Nils Luettschwager <luettschwager@mailbox.org>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
