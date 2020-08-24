@@ -6,3 +6,7 @@ makedocs(
     modules=[sampleproject],
     pages=["Home" => "index.md"]
 )
+
+deploydocs(
+    repo = "github.com/nluetts/sampleproject.git",
+)
