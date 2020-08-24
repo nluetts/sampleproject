@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#sample-project","page":"Home","title":"sample project","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"This is just a test project to learn deploying docs and running Github actions.","category":"page"},{"location":"","page":"Home","title":"Home","text":"There is one glorious function: foo()","category":"page"},{"location":"","page":"Home","title":"Home","text":"foo","category":"page"},{"location":"#sampleproject.foo","page":"Home","title":"sampleproject.foo","text":"foo()\n\nReturn the foo.\n\nExample\n\njulia> using sampleproject\n\njulia> foo()\n\"bar\"\n\n\n\n\n\n","category":"function"}]
+}
